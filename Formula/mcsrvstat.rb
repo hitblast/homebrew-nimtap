@@ -9,7 +9,7 @@ class Mcsrvstat < Formula
   depends_on "nim" => :build
 
   def install
-    system "nimble", "-d:release", "build", "--accept"
+    system "nimble", "release"
     bin.install "mcsrvstat"
   end
 end
