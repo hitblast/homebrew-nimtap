@@ -10,6 +10,6 @@ class Nimip < Formula
 
   def install
     system "nimble", "release"
-    bin.install "mcsrvstat"
+    bin.install "nimip"
   end
 end
