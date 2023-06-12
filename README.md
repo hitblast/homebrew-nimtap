@@ -1,7 +1,7 @@
-# <img src="https://raw.githubusercontent.com/nim-lang/assets/master/Art/logo-crown.png" height="30px"/> nimtap <br>
-### A homebrew tap repository to store my formulae based on the Nim programming language.
+# <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/homebrew/homebrew.png" height="30px"/> nimtap <br>
+### A homebrew tap for my formulae based on the Nim programming language.
 
-<br>
+---
 
 ## Tapping
 
