@@ -1,8 +1,8 @@
 class Nimip < Formula
   desc "Asynchronously lookup IP addresses with this tiny, hybrid Nim application"
   homepage "https://github.com/hitblast/nimip"
-  url "https://github.com/hitblast/nimip/archive/refs/tags/1.0.0.tar.gz"
-  sha256 "e3e01e86f8820c2a776fe40a48989301985ea045cf836df1dabd3b02bc221ff0"
+  url "https://github.com/hitblast/nimip/archive/refs/tags/1.1.0.tar.gz"
+  sha256 "e71b00111d9aff5fc3201b4c3a2d875b64bb30ff9dc695130a1e65ab49698ff4"
   license "MIT"
 
   depends_on "openssl"
