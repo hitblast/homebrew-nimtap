@@ -9,7 +9,7 @@ class Nimip < Formula
   depends_on "nim" => :build
 
   def install
-    system "nimble", "release"
+    system "nimble", "build", "-d:ssl", "-d:release", "--accept"
     bin.install "nimip"
   end
 end
