@@ -1,8 +1,8 @@
 class Mcsrvstat < Formula
   desc "A hybrid and asynchronous Nim wrapper for the Minecraft Server Status API."
   homepage "https://github.com/hitblast/mcsrvstat.nim"
-  url "https://github.com/hitblast/mcsrvstat.nim/archive/refs/tags/1.4.1.tar.gz"
-  sha256 "22ac2fcd32ab8d1c2e4d05db672fdec5774d2ec2fa16d74601d8c0b9a23eb38a"
+  url "https://github.com/hitblast/mcsrvstat.nim/archive/refs/tags/1.5.tar.gz"
+  sha256 "09d3d3465329af71e47c70cab24e1794208abdb7b13c7150e1fd79992d2f5d63"
   license "MIT"
 
   depends_on "openssl"
